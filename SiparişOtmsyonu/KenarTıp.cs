@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PıızaOtosn
+{
+    public class KenarTıp
+    {
+        public string Adi { get; set; }
+
+        public int EkFiyat { get; set; }
+        public string Adı { get; internal set; }
+    }
+}
